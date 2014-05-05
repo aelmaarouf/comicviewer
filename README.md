@@ -8,6 +8,7 @@ At first this app shows the phone directories and after selecting the image want
 # TODOs
 
 The TODO list is still long, very long:
+
 1. The square detection algorithm is not accurate yet
 2. I'm using a file system to communicate between C++ and JAVA we can use jniexports instead
 3. minor imperfections
