@@ -13,7 +13,3 @@ The TODO list is still long, very long:
 2. I'm using a file system to communicate between C++ and JAVA we can use jniexports instead
 3. minor imperfections
 4. UI (very important and very neglected)
-
-# LICENSE
-
-This project is (as i said erlier) a tutorial based code, and is a free code not to use for commercial purposes
